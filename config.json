@@ -1,0 +1,7 @@
+{
+    "name": "Google Java编程风格规范",
+    "introduction": "编码规范是一个程序员基本功的体现，本教程是 Google 的规范，值得参考。",
+    "path" : {
+    "toc" : "SUMMARY.md"
+    }
+}
